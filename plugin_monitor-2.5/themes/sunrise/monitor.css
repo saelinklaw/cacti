@@ -1,0 +1,32 @@
+.monitorHover {
+	color: white !important;
+}
+
+.monitorHover a, .monitorHover a:active, .monitorHover a:visited {
+	color: #93CEFF !important;
+}
+
+.monitorHover a:hover, .monitor a:hover {
+	color: white !important;
+}
+
+.monitorFooterText {
+	color: gray;
+}
+
+.monitorFooterTextBold {
+	color: white;
+}
+
+.deviceUnknownBg {
+	color: rgb(255, 255, 255);
+}
+
+.deviceDownBg {
+	color: rgb(255, 255, 255);
+}
+
+.deviceAlertBg {
+	color: rgb(255, 255, 255);
+}
+
